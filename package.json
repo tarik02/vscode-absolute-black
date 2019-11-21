@@ -3,7 +3,7 @@
     "displayName": "absolutely-black",
     "description": "Absolutely black vscode color theme",
     "publisher": "tarik02",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.40.0"
     },
