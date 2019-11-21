@@ -4,6 +4,10 @@
     "description": "Absolutely black vscode color theme",
     "publisher": "tarik02",
     "version": "1.2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tarik02/vscode-absolute-black"
+    },
     "engines": {
         "vscode": "^1.40.0"
     },
