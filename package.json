@@ -2,7 +2,7 @@
     "name": "absolutely-black",
     "displayName": "absolutely-black",
     "description": "Absolutely black vscode color theme",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.40.0"
     },
